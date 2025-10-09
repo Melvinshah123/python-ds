@@ -1,0 +1,101 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+T0001,2025-02-15,Furniture,Bed,14,2202.96,30841.44,East,Credit Card
+T0002,2025-03-01,Electronics,Tablet,5,807.94,4039.7,East,Net Banking
+T0003,2025-01-06,Furniture,Chair,5,771.49,3857.45,South,Cash
+T0004,2025-01-22,Electronics,Smartwatch,19,4528.33,86038.27,East,Cash
+T0005,2025-01-22,Electronics,Smartphone,2,2320.42,4640.84,South,Net Banking
+T0006,2025-01-22,Clothing,Jacket,9,4200.63,37805.67,East,Debit Card
+T0007,2025-04-01,Clothing,Dress,8,1008.37,8066.96,North,UPI
+T0008,2025-01-01,Electronics,Laptop,9,2773.19,24958.71,South,Credit Card
+T0009,2025-03-30,Clothing,T-Shirt,2,1772.47,3544.94,North,UPI
+T0010,2025-03-09,Clothing,Jacket,10,2098.28,20982.8,South,Net Banking
+T0011,2025-02-18,Clothing,Jacket,20,298.97,5979.4,South,Net Banking
+T0012,2025-01-04,Clothing,Dress,7,3411.44,23880.08,North,UPI
+T0013,2025-01-06,Furniture,Bed,6,2272.88,13637.28,South,UPI
+T0014,2025-03-31,Clothing,Shoes,1,1816.81,1816.81,East,UPI
+T0015,2025-01-31,Electronics,Headphones,11,3523.81,38761.91,West,Cash
+T0016,2025-03-09,Furniture,Dining Table,19,979.67,18613.73,East,Net Banking
+T0017,2025-02-25,Home Appliances,Air Conditioner,15,702.48,10537.2,West,UPI
+T0018,2025-03-01,Furniture,Sofa,13,923.95,12011.35,West,UPI
+T0019,2025-01-02,Home Appliances,Refrigerator,11,974.63,10720.93,South,UPI
+T0020,2025-01-12,Electronics,Camera,18,3936.25,70852.5,East,UPI
+T0021,2025-03-28,Clothing,Shoes,9,3795.58,34160.22,East,Debit Card
+T0022,2025-03-31,Home Appliances,Air Conditioner,12,345.42,4145.04,East,Net Banking
+T0023,2025-02-17,Home Appliances,Air Conditioner,9,3220.13,28981.17,North,UPI
+T0024,2025-01-06,Furniture,Chair,17,4457.28,75773.76,South,Debit Card
+T0025,2025-01-26,Home Appliances,Air Conditioner,1,731.85,731.85,East,Credit Card
+T0026,2025-01-31,Electronics,Tablet,4,2949.33,11797.32,West,Debit Card
+T0027,2025-01-26,Furniture,Chair,10,413.37,4133.7,South,Debit Card
+T0028,2025-03-30,Clothing,Dress,6,1731.99,10391.94,South,Net Banking
+T0029,2025-04-01,Electronics,Smartwatch,5,1499.95,7499.75,South,Cash
+T0030,2025-02-18,Electronics,Smartwatch,7,318.46,2229.22,North,Net Banking
+T0031,2025-03-04,Clothing,Shoes,12,818.01,9816.12,North,Cash
+T0032,2025-01-17,Furniture,Bed,5,2524.49,12622.45,South,Credit Card
+T0033,2025-03-27,Clothing,Shoes,1,1293.32,1293.32,South,Credit Card
+T0034,2025-03-29,Electronics,Smartphone,18,4757.41,85633.38,West,Cash
+T0035,2025-02-22,Clothing,Shoes,5,356.37,1781.85,East,Net Banking
+T0036,2025-02-20,Furniture,Dining Table,3,4898.21,14694.63,East,UPI
+T0037,2025-03-05,Home Appliances,Microwave,12,4559.36,54712.32,West,Debit Card
+T0038,2025-02-27,Electronics,Laptop,20,4619.76,92395.2,East,Net Banking
+T0039,2025-03-07,Furniture,Sofa,5,4649.37,23246.85,East,Cash
+T0040,2025-03-31,Electronics,Headphones,16,4758.98,76143.68,South,Credit Card
+T0041,2025-03-15,Electronics,Laptop,7,3403.24,23822.68,North,Cash
+T0042,2025-02-06,Electronics,Tablet,19,804.2,15279.8,South,Net Banking
+T0043,2025-02-17,Clothing,Dress,3,3364.59,10093.77,North,Credit Card
+T0044,2025-03-21,Home Appliances,Refrigerator,4,2247.84,8991.36,West,Debit Card
+T0045,2025-01-23,Clothing,T-Shirt,18,3407.63,61337.34,East,Net Banking
+T0046,2025-01-15,Furniture,Wardrobe,5,4735.92,23679.6,North,UPI
+T0047,2025-01-31,Home Appliances,Microwave,5,1373.51,6867.55,East,Debit Card
+T0048,2025-01-07,Home Appliances,Microwave,4,4294.99,17179.96,West,Net Banking
+T0049,2025-03-03,Furniture,Dining Table,11,3052.47,33577.17,East,Net Banking
+T0050,2025-02-06,Clothing,Jeans,15,2098.65,31479.75,West,Credit Card
+T0051,2025-01-30,Home Appliances,Microwave,12,850.69,10208.28,East,Debit Card
+T0052,2025-01-13,Furniture,Dining Table,17,3474.44,59065.48,West,Net Banking
+T0053,2025-03-05,Clothing,Dress,4,2832.56,11330.24,North,Credit Card
+T0054,2025-03-22,Furniture,Wardrobe,2,3230.17,6460.34,North,UPI
+T0055,2025-02-11,Electronics,Camera,3,4291.2,12873.6,South,Debit Card
+T0056,2025-03-11,Clothing,T-Shirt,19,2130.11,40472.09,East,Credit Card
+T0057,2025-01-12,Clothing,Jeans,18,4781.29,86063.22,North,Cash
+T0058,2025-02-16,Furniture,Chair,7,4227.16,29590.12,North,Cash
+T0059,2025-01-25,Home Appliances,Air Conditioner,7,234.52,1641.64,East,Debit Card
+T0060,2025-01-23,Electronics,Headphones,2,1273.84,2547.68,South,Net Banking
+T0061,2025-03-11,Furniture,Wardrobe,14,1034.85,14487.9,East,UPI
+T0062,2025-01-28,Home Appliances,Washing Machine,18,1480.53,26649.54,East,Credit Card
+T0063,2025-01-03,Electronics,Camera,7,2307.4,16151.8,South,Credit Card
+T0064,2025-01-07,Electronics,Tablet,4,4343.47,17373.88,East,UPI
+T0065,2025-02-12,Home Appliances,Vacuum Cleaner,4,1878.22,7512.88,West,Credit Card
+T0066,2025-02-03,Clothing,Jeans,1,4874.37,4874.37,South,Net Banking
+T0067,2025-03-22,Electronics,Laptop,16,4223.14,67570.24,East,Net Banking
+T0068,2025-02-09,Clothing,Jeans,4,2278.91,9115.64,North,Credit Card
+T0069,2025-01-29,Furniture,Bed,12,538.11,6457.32,East,Net Banking
+T0070,2025-02-21,Home Appliances,Refrigerator,4,2363.49,9453.96,West,Cash
+T0071,2025-03-01,Electronics,Headphones,20,3985.01,79700.2,South,UPI
+T0072,2025-03-27,Furniture,Dining Table,14,922.53,12915.42,South,Credit Card
+T0073,2025-01-11,Home Appliances,Vacuum Cleaner,1,2983.88,2983.88,South,Debit Card
+T0074,2025-03-04,Clothing,Dress,8,2640.21,21121.68,North,Cash
+T0075,2025-02-28,Furniture,Sofa,11,1524.33,16767.63,North,Credit Card
+T0076,2025-01-29,Home Appliances,Microwave,19,3336.32,63390.08,East,UPI
+T0077,2025-03-22,Clothing,Jacket,16,675.18,10802.88,East,Net Banking
+T0078,2025-03-05,Electronics,Laptop,2,811.26,1622.52,East,UPI
+T0079,2025-03-13,Electronics,Camera,16,4054.23,64867.68,East,Net Banking
+T0080,2025-02-17,Home Appliances,Vacuum Cleaner,14,2737.41,38323.74,North,Debit Card
+T0081,2025-03-28,Home Appliances,Washing Machine,10,4649.07,46490.7,North,Cash
+T0082,2025-01-30,Electronics,Smartwatch,7,1629.05,11403.35,East,Cash
+T0083,2025-03-25,Clothing,Jacket,14,2134.44,29882.16,South,Net Banking
+T0084,2025-03-11,Electronics,Camera,10,4179.25,41792.5,South,Cash
+T0085,2025-02-12,Clothing,Shoes,15,1812.13,27181.95,South,Net Banking
+T0086,2025-01-02,Home Appliances,Refrigerator,15,3741.91,56128.65,East,Debit Card
+T0087,2025-02-04,Home Appliances,Vacuum Cleaner,6,245.21,1471.26,South,Debit Card
+T0088,2025-03-04,Home Appliances,Microwave,7,330.41,2312.87,South,Net Banking
+T0089,2025-01-07,Clothing,Dress,1,4284.7,4284.7,East,Cash
+T0090,2025-03-05,Furniture,Bed,5,984.67,4923.35,South,Cash
+T0091,2025-01-24,Electronics,Smartwatch,8,4006.8,32054.4,West,Net Banking
+T0092,2025-01-05,Furniture,Chair,17,3663.98,62287.66,East,UPI
+T0093,2025-02-13,Furniture,Wardrobe,8,4805.34,38442.72,South,Cash
+T0094,2025-01-29,Home Appliances,Washing Machine,11,193.89,2132.79,West,UPI
+T0095,2025-01-28,Clothing,Jacket,5,3308.71,16543.55,West,Debit Card
+T0096,2025-02-08,Clothing,Jeans,8,1744.85,13958.8,East,Cash
+T0097,2025-03-30,Clothing,Jeans,5,3521.28,17606.4,South,Credit Card
+T0098,2025-01-12,Clothing,Dress,9,4577.0,41193.0,East,Net Banking
+T0099,2025-03-10,Clothing,Shoes,12,3552.34,42628.08,East,Cash
+T0100,2025-03-26,Home Appliances,Refrigerator,11,777.7,8554.7,West,Net Banking
